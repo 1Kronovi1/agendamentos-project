@@ -20,9 +20,9 @@ O sistema simula o fluxo de uma barbearia/salão: o cliente marca um horário em
 
 ## Demonstração
 
-<img width="1225" height="726" alt="image" src="https://github.com/user-attachments/assets/674af9e9-5023-4f83-b531-7d88b71d3787" />
-<img width="800" height="927" alt="image" src="https://github.com/user-attachments/assets/6136fcd2-2e4c-4fa1-92eb-a786c19bbec9" />
-<img width="1137" height="927" alt="image" src="https://github.com/user-attachments/assets/ff93d12c-ae7a-4f26-bda6-1f36afe7b808" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/674af9e9-5023-4f83-b531-7d88b71d3787" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6136fcd2-2e4c-4fa1-92eb-a786c19bbec9" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ff93d12c-ae7a-4f26-bda6-1f36afe7b808" />
 
 ## Stack utilizada
 
