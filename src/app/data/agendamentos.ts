@@ -52,3 +52,15 @@ export function atualizarStatus(id: string, status: StatusAgendamento): void {
   agendamentos[index].status = status
   fs.writeFileSync(FILE_PATH, JSON.stringify(agendamentos, null, 2))
 }
+
+export function excluirAgendamento(id: string): void {
+  const agendamentos = listarAgendamentos()
+
+  const existe = agendamentos.some((a) => a.id === id)
+  if (!existe) {
+    throw new Error(`Agendamento com id ${id} não encontrado`)
+  }
+
+  const atualizados = agendamentos.filter((a) => a.id !== id)
+  fs.writeFileSync(FILE_PATH, JSON.stringify(atualizados, null, 2))
+}

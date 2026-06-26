@@ -4,6 +4,7 @@ import { revalidatePath } from 'next/cache'
 import {
   criarAgendamento,
   atualizarStatus,
+  excluirAgendamento,
   type StatusAgendamento,
 } from '@/app/data/agendamentos'
 
@@ -30,5 +31,10 @@ export async function atualizarStatusAction(
   status: StatusAgendamento
 ) {
   atualizarStatus(id, status)
+  revalidatePath('/agenda')
+}
+
+export async function excluirAgendamentoAction(id: string) {
+  excluirAgendamento(id)
   revalidatePath('/agenda')
 }
