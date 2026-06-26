@@ -102,8 +102,8 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador. A partir da ho
 
 Desenvolvido por **[Seu Nome]** como projeto de estudo do curso de Análise e Desenvolvimento de Sistemas.
 
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/SEU-PERFIL)
-- GitHub: [@seu-usuario](https://github.com/SEU-USUARIO)
+- LinkedIn: https://www.linkedin.com/in/bruno-oliveira-3116703b6/
+- GitHub: https://github.com/1Kronovi1/
 
 ---
 
