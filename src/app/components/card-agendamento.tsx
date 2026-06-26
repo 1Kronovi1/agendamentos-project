@@ -64,7 +64,7 @@ export function CardAgendamento({ agendamento }: Props) {
 
                 <AlertDialogContent>
                     <AlertDialogHeader>
-                    <AlertDialogTitle>Excluir agendamento?</AlertDialogTitle>
+                    <AlertDialogTitle>Tem certeza que deseja excluir o agendamento?</AlertDialogTitle>
                     <AlertDialogDescription>
                         Você está excluindo o agendamento de{' '}
                         <span className="font-medium text-slate-900">
