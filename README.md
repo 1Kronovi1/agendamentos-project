@@ -100,7 +100,7 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador. A partir da ho
 
 ## Autor
 
-Desenvolvido por **[Seu Nome]** como projeto de estudo do curso de Análise e Desenvolvimento de Sistemas.
+Desenvolvido por **Bruno Oliveira** como projeto de estudo e desafio pessoal.
 
 - LinkedIn: https://www.linkedin.com/in/bruno-oliveira-3116703b6/
 - GitHub: https://github.com/1Kronovi1/
